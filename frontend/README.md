@@ -4,6 +4,11 @@ combobox
 data-table
 date-picker
 
+rm -rf node_modules package-lock.json
+npm install --legacy-peer-deps
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
